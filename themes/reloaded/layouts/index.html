@@ -1,22 +1,15 @@
 {{ define "main" }}
 <div class="jumbotron text-center">
     <img class="headerImage" src="/images/matt.png" alt="Photo of Matthew Zegar"/>
-    <h1>Matthew Zegar</h1>
+    <h2>Matthew Zegar</h2>
     <p>Computer Science Student at Simon Fraser University</p>
+</div>
 
-    <div id="nav-border" class="container">
-        <nav id="nav" class="nav justify-content-center">
-            {{ range .Site.Menus.main }}
-            <a class="nav-link" href="{{ .URL }}">
-                {{ if .Pre }}
-                {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
-                {{ $icon }}
-                {{ end }}
-                {{ $text := print .Name | safeHTML }}
-                {{ $text }}
-            </a>
-            {{ end }}
-        </nav>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-8">
+            {{.Content}}
+        </div>
     </div>
 </div>
 {{ end }}
