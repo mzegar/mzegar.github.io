@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron {
+    padding: 4rem 2rem;
+}
+
+.headerImage {
+    width: 230px;
+    height: 230px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    border-radius: 1%;
+}
