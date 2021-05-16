@@ -1,12 +1,9 @@
 +++
-author = "Matthew Zegar"
 title = "Projects"
-date = "2021-05-14"
 tags = [
     "projects",
 ]
 +++
-
 **[Retter - Flutter Reddit App](https://github.com/mzegar/Retter) Dart, Flutter (Jun 2020)**
 - A complete Reddit experience built using Flutter
 - Open sourced and contributed to by other developers
@@ -16,12 +13,7 @@ tags = [
 - Developed the application using modern C++ practices
 - Created a build system using CMake
 - Wrote extensive testing for the application using the GoogleTest framework
-- Led the eight person group as the "Project Manager"
-
-**[JavaScript Chip8 Emulator](https://github.com/mzegar/Chip8-Preview/blob/master/README.md) JavaScript, Bootstrap (Jan 2019 - Apr 2019)**
-- Played the role of GitHub master and managed the repository for group members
-- Implemented all front-end work for the project (using JavaScript, Bootstrap, HTML)
-- Designed the internal program structure according to Chip8 system specifications
+- Led an eight-person group as the "Project Manager"
 
 **Database Interface Java, JavaFX, Spring (Apr 2019)**
 - Setup a Spring server that provides Rest API (CRUD)

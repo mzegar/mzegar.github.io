@@ -27,3 +27,7 @@ body {
     font-weight: bold;
     margin: 0 0.2rem 0 0.2rem;
 }
+
+.icon {
+    font-size: 25px;
+}

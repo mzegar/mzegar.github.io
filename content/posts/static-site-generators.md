@@ -1,7 +1,7 @@
 +++
 author = "Matthew Zegar"
 title = "Hugo, Another Static Site Generator"
-date = "2021-05-14"
+date = "2021-05-15"
 description = "Why use a static site generators?"
 tags = [
     "static",
@@ -24,7 +24,20 @@ as previously updating my website was a pain. I had to go through this typical p
 What I wanted is to be able to open a Markdown file in GitHub's web interface, change a few lines, and have those changes
 automatically populate to my GitHub pages website. This is what Hugo provides (alongside many other static web page generators).
 
-The content in this blog post you are currently reading was done in Markdown. No more jumping through hoops.
+The content in this blog post you are currently reading was done in [Markdown](https://en.wikipedia.org/wiki/Markdown). 
+It supports extremely easy ways to format text. For example...
 
+```html
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Example HTML5 Document</title>
+</head>
+<body>
+  <p>Pretty neat stuff.</p>
+</body>
+</html>
+```
 
-
+No more jumping through hoops.
