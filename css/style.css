@@ -31,3 +31,21 @@ body {
 .icon {
     font-size: 25px;
 }
+
+.title-lg-view{
+    display:inline-block;
+}
+
+.title-sm-view{
+    display:none;
+}
+
+@media screen and (max-width: 425px) {
+    .title-lg-view{
+        display:none;
+    }
+
+    .title-sm-view{
+        display:inline-block;
+    }
+}
