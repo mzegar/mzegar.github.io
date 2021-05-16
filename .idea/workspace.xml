@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d855e4ce-c080-4e83-9aa5-9642cbd89454" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/static-site-generators.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/static-site-generators.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/reloaded/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/reloaded/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/reloaded/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/layouts/partials/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/reloaded/layouts/partials/metadata.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/layouts/partials/metadata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/reloaded/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/static/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="d855e4ce-c080-4e83-9aa5-9642cbd89454" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
