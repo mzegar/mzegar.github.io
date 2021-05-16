@@ -1,6 +1,12 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ partial "metadata.html" . }}
-<br><br>
-{{ .Content }}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-8">
+            <h2>{{ .Title }}</h2>
+            {{ partial "metadata.html" . }}
+            <br><br>
+            {{ .Content }}
+        </div>
+    </div>
+</div>
 {{ end }}

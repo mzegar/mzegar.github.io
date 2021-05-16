@@ -3,15 +3,15 @@
 
 name = "Reloaded"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+licenselink = "https://github.com/mzegar/mzegar.github.io/blob/master/LICENSE"
 description = ""
-homepage = "http://example.com/"
+homepage = "https://mzegar.github.io/"
 tags = []
 features = []
 min_version = "0.41.0"
 
 [author]
-  name = ""
+  name = "Matthew Zegar"
   homepage = ""
 
 # If porting an existing theme

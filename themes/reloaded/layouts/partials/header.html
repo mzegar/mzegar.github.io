@@ -1,14 +1,20 @@
-<div id="nav-border" class="container">
-    <nav id="nav" class="nav justify-content-center">
-        {{ range .Site.Menus.main }}
-        <a class="nav-link" href="{{ .URL }}">
-            {{ if .Pre }}
-            {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
-            {{ $icon }}
-            {{ end }}
-            {{ $text := print .Name | safeHTML }}
-            {{ $text }}
-        </a>
-        {{ end }}
-    </nav>
+<div class="container custom-navbar">
+    <div class="row justify-content-center">
+        <div class="col-10">
+            <nav class="navbar navbar-expand">
+                <a class="navbar-brand custom-nav-item" href="/">Matthew Zegar</a>
+                <div class="navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+                    <div class="navbar-nav ml-auto">
+                        {{ range .Site.Menus.main }}
+                        <a class="nav-item nav-link custom-nav-item" href="{{ .URL }}">
+                            {{ $text := print .Name | safeHTML }}
+                            {{ $text }}
+                        </a>
+                        {{ end }}
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
 </div>
+
