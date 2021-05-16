@@ -5,12 +5,10 @@ title = "Matthew Zegar | Personal Website"
 
 [menu]
     [[menu.main]]
+        name = "Projects"
+        url = "/projects/"
+        weight = 1
+    [[menu.main]]
         name = "Posts"
-        pre = "pen-tool"
         url = "/posts/"
         weight = 2
-    [[menu.main]]
-        name = "Tags"
-        pre = "tag"
-        url = "/tags/"
-        weight = 3

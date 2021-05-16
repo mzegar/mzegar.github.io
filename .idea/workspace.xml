@@ -4,11 +4,14 @@
     <list default="true" id="d855e4ce-c080-4e83-9aa5-9642cbd89454" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/static-site-generators.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/static-site-generators.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/reloaded/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/layouts/_default/baseof.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/reloaded/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/layouts/_default/single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/reloaded/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/reloaded/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/layouts/partials/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/reloaded/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/layouts/partials/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/reloaded/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/reloaded/theme.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reloaded/theme.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,7 @@
       <updated>1621102025490</updated>
       <workItem from="1621102028416" duration="6180000" />
       <workItem from="1621113415039" duration="337000" />
-      <workItem from="1621113761792" duration="5356000" />
+      <workItem from="1621113761792" duration="7990000" />
     </task>
     <servers />
   </component>

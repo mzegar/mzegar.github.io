@@ -2,7 +2,7 @@
 author = "Matthew Zegar"
 title = "Hugo, Another Static Site Generator"
 date = "2021-05-14"
-description = "Why static site generators?"
+description = "Why use a static site generators?"
 tags = [
     "static",
     "site",
