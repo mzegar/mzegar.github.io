@@ -4,6 +4,9 @@ tags = [
     "projects",
 ]
 +++
+**[S&box Crosshair](https://github.com/mzegar/sbox-crosshair) C#, SCSS, s&box (May 2021)**
+- A complete static crosshair system built for usage within s&box
+
 **[Retter - Flutter Reddit App](https://github.com/mzegar/Retter) Dart, Flutter (Jun 2020)**
 - A complete Reddit experience built using Flutter
 - Open sourced and contributed to by other developers
