@@ -1,8 +1,8 @@
-##### About Me
+### About Me
 Hello! My name is Matthew Zegar. I'm currently doing an internship at NVIDIA. This website contains all relevant information
 regarding my work experience, projects, and education.
 
-##### Work Experience
+### Work Experience
 **[NVIDIA - Software Intern](https://www.nvidia.com/en-us/) (Jan 2021 - Aug 2021)**
 - Interning here right now!
 - Primarily working on the open source repo [node-rapids](https://github.com/rapidsai/node-rapids)
@@ -19,7 +19,7 @@ regarding my work experience, projects, and education.
 - Improved server web interface usability using Javascript, jQuery, and Node.js
 - C#, JavaScript, JQuery, and Node.js
 
-##### Education
+### Education
 BSc. Software Systems - Computer Science (Sept 2017 - Sept 2022)
 
 Simon Fraser University, Burnaby, British Columbia

@@ -3,6 +3,11 @@ languageCode = "en-us"
 theme = "reloaded"
 title = "Matthew Zegar | Personal Website"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
     [[menu.main]]
         name = "Projects"
