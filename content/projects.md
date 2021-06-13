@@ -4,6 +4,10 @@ tags = [
     "projects",
 ]
 +++
+**[TTT Reborn](https://github.com/TTTReborn/ttt-reborn) C#, SCSS, s&box (Present)**
+- TTT Reborn is the re-imagining of the popular [Garry's Mod TTT](https://www.troubleinterroristtown.com/) gamemode built for [s&box](https://sbox.facepunch.com/news)
+- Programmed core networking game logic for the project
+
 **[S&box Crosshair](https://github.com/mzegar/sbox-crosshair) C#, SCSS, s&box (May 2021)**
 - A complete static crosshair system built for usage within s&box
 
